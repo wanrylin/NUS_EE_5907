@@ -2,7 +2,7 @@
 
 writer Wanry Lin
 
-# Attention! the LDA alogrithm of mine performs weak and there may be something wrong that you'd better write a new one. 
+# Attention! the LDA function of mine performs weak and there may be something wrong that you'd better write a new one. 
 
 ## Introduction
 This project is built under the requirements of the file "Face Recognition CA2". There is 7 parts in total. The main goal of the project is to classify the face images.
